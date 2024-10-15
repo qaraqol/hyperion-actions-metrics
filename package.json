@@ -1,0 +1,11 @@
+{
+  "name": "hyperion-actions-metrics",
+  "version": "1.0.0",
+  "description": "Tool to track daily number of actions in a hyperion node.",
+  "main": "trackActions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amin, Qaraqol",
+  "license": "ISC"
+}
