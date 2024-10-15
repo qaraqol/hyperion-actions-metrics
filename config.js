@@ -1,7 +1,7 @@
 //The first endpoint in this array will be tracked by the trackActions.js so please modify accordingly
 export const endPoints = [
-  { name: "EOSphere", url: "https://wax.eosphere.io" },
   { name: "Qaraqol", url: "https://wax.qaraqol.com" },
+  { name: "HyperionEndpointName", url: "https://hyperion-url.com" },
   { name: "Local", url: "127.0.0.1:7000" },
   // Add more endpoints here as needed for future
 ];
