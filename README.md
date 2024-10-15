@@ -47,7 +47,7 @@ This project provides tools to track and compare the daily number of actions pro
 Edit the `config.js` file to add or modify Hyperion endpoints and set the date range:
 
 ```javascript
-export default endPoints = [
+export const endPoints = [
   { name: "Qaraqol", url: "https://wax.qaraqol.com" },
   { name: "HyperionEndpointName", url: "https://hyperion-url.com" },
   { name: "Local", url: "127.0.0.1:7000" },
